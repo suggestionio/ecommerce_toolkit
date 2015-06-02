@@ -19,7 +19,30 @@ Built by [Suggestion.io](https://www.suggestion.io).
   * [Shipping](#shipping)
   * [Translation](#translation)
 
-## Platforms
+## A/B Testing
 
+## Analytics
+
+## Blogs
+
+## Books
+
+## CMS
+
+## Dashboards
+
+## Recommendations
+
+## Search
+
+## SEO
+
+## Payments
+
+## Platforms
 * [Shopify](https://www.shopify.com)
 * [SpreeCommerce](https://spreecommerce.com) - Open Source
+
+## Shipping
+
+## Translation
