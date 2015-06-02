@@ -1,6 +1,6 @@
 # <a href="http://www.ecommerce-toolkit.com">Ecommerce Toolkit</a>
 
-A collection of Ecommerce platforms, tools and applications.. The essential list to build your online store.
+A collection of Ecommerce platforms, tools and applications. The essential list to build your online store.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
