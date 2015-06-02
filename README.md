@@ -5,20 +5,20 @@ The goal is to build a categorized community-driven collection of very well-know
 Built by [Suggestion.io](https://www.suggestion.io).
 
 * [Ecommerce Toolkit](#ecommerce-toolkit)
-	* [A/B Testing](#ab-testing)
-	* [Analytics](#analytics)
-	* [Blogs](#blogs)
-	* [Books](#books)
-	* [CMS](#cms)
-	* [Dashboards](#dashboards)
-	* [Recommendations](#recommendations)
-	* [Search](#search)
-	* [SEO](#seo)
-	* [Payments](#payments)
-	* [Platforms](#platforms)
-	* [Shipping](#shipping)
-	* [Translation](#translation)
-  
+  * [A/B Testing](#ab-testing)
+  * [Analytics](#analytics)
+  * [Blogs](#blogs)
+  * [Books](#books)
+  * [CMS](#cms)
+  * [Dashboards](#dashboards)
+  * [Recommendations](#recommendations)
+  * [Search](#search)
+  * [SEO](#seo)
+  * [Payments](#payments)
+  * [Platforms](#platforms)
+  * [Shipping](#shipping)
+  * [Translation](#translation)
+
 ## Platforms
 
 * [Shopify](https://www.shopify.com)
