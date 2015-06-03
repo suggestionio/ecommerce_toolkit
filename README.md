@@ -60,8 +60,8 @@ Built by [Suggestion.io](https://www.suggestion.io).
 
 ## Translation
 
-## Resources
+# Resources
 
-## Blogs
+# Blogs
 
-## Twitter
+# Twitter
