@@ -29,6 +29,13 @@ Built by [Suggestion.io](https://www.suggestion.io).
 
 ## Analytics
 
+* [Clicky](http://clicky.com/)
+* [Google Analytics](https://www.google.com/analytics)
+* [KISSmetrics](https://www.kissmetrics.com/)
+* [MixPanel](https://mixpanel.com/)
+* [Piwik](http://piwik.org/)
+* [Woopra](https://www.woopra.com/)
+
 ## Blogs
 
 ## Books
