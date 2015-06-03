@@ -9,7 +9,6 @@ Built by [Suggestion.io](https://www.suggestion.io).
 * [Ecommerce Toolkit](#ecommerce-toolkit)
   * [A/B Testing](#ab-testing)
   * [Analytics](#analytics)
-  * [Blogs](#blogs)
   * [Books](#books)
   * [CMS](#cms)
   * [Dashboards](#dashboards)
@@ -20,6 +19,9 @@ Built by [Suggestion.io](https://www.suggestion.io).
   * [Platforms](#platforms)
   * [Shipping](#shipping)
   * [Translation](#translation)
+* [Blogs](#blogs)
+* [Resources](#resources)
+* [Twitter](#twitter)
 
 ## A/B Testing
 
@@ -35,8 +37,6 @@ Built by [Suggestion.io](https://www.suggestion.io).
 * [MixPanel](https://mixpanel.com/)
 * [Piwik](http://piwik.org/)
 * [Woopra](https://www.woopra.com/)
-
-## Blogs
 
 ## Books
 
@@ -59,3 +59,9 @@ Built by [Suggestion.io](https://www.suggestion.io).
 ## Shipping
 
 ## Translation
+
+## Resources
+
+## Blogs
+
+## Twitter
