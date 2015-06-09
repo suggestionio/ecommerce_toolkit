@@ -40,8 +40,8 @@ Built by [Suggestion.io](https://www.suggestion.io).
 
 * [Clicky](http://clicky.com/)
 * [Google Analytics](https://www.google.com/analytics)
-* [KISSmetrics](https://www.kissmetrics.com/)
 * [Jirafe](https://jirafe.com/) - Ecommerce focused
+* [KISSmetrics](https://www.kissmetrics.com/)
 * [MixPanel](https://mixpanel.com/)
 * [Ometria](https://www.ometria.com/) - Ecommerce focused
 * [Piwik](http://piwik.org/)
