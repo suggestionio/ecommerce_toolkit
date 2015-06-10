@@ -79,6 +79,7 @@ Built by [Suggestion.io](https://www.suggestion.io).
 
 ## Payments
 
+* [Braintree](https://www.braintreepayments.com/)
 * [Paymill](https://www.paymill.com/)
 * [PayPal](https://www.paypal.com/)
 * [Stripe](https://stripe.com/)
