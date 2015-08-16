@@ -57,7 +57,6 @@ Built by [Suggestion.io](https://www.suggestion.io).
 ## Dashboards
 
 * [Cyfe](http://www.cyfe.com/)
-* [DucksBoard](https://www.ducksboard.com/)
 * [GeckoBoard](https://www.geckoboard.com/)
 * [Leftronic](https://www.leftronic.com/)
 
