@@ -103,9 +103,9 @@ Built by [Suggestion.io](https://www.suggestion.io).
 # Blogs
 
 * [Bigcommerce Blog](http://blog.bigcommerce.com/)
+* [ecommerceFuel](http://www.ecommercefuel.com/)
 * [GetElastic](http://www.getelastic.com/)
 * [Shopify](http://www.shopify.co.uk/blog)
-* [SuggestionIo](https://www.suggestion.io/blog/)
 
 # Books
 
