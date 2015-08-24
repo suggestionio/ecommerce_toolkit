@@ -104,6 +104,7 @@ Built by [Suggestion.io](https://www.suggestion.io).
 
 * [Bigcommerce Blog](http://blog.bigcommerce.com/)
 * [ecommerceFuel](http://www.ecommercefuel.com/)
+* [Econsultancy](https://econsultancy.com/blog)
 * [GetElastic](http://www.getelastic.com/)
 * [Shopify](http://www.shopify.co.uk/blog)
 
