@@ -86,6 +86,7 @@ Built by [Suggestion.io](https://www.suggestion.io).
 ## Platforms
 
 * [Bigcommerce](https://www.bigcommerce.com/)
+* [LemonStand](https://lemonstand.com/)
 * [PrestaShop](https://www.prestashop.com/)
 * [Shopify](https://www.shopify.com)
 * [SpreeCommerce](https://spreecommerce.com) - Open Source
