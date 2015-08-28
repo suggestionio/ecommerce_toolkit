@@ -18,6 +18,7 @@ Built by [Suggestion.io](https://www.suggestion.io).
   * [Payments](#payments)
   * [Platforms](#platforms)
   * [Shipping](#shipping)
+  * [Tax](#tax)
   * [Translation](#translation)
 * [Books](#books)
 * [Blogs](#blogs)
@@ -96,6 +97,10 @@ Built by [Suggestion.io](https://www.suggestion.io).
 
 * [ShipWire](http://www.shipwire.com/)
 * [Webgistix](http://www.webgistix.com/)
+
+## Tax
+
+* [TaxCloud](https://taxcloud.net/)
 
 ## Translation
 
