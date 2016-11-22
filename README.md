@@ -67,6 +67,7 @@ Built by [Suggestion.io](https://www.suggestion.io).
 * [Nosto](http://www.nosto.com/)
 * [nToklo](http://www.ntoklo.com/)
 * [SLISystems](http://www.sli-systems.com/)
+* [Yusp](http://www.yusp.com/)
 
 ## Search
 
